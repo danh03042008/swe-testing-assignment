@@ -30,7 +30,6 @@ test_negative_numbers, unit - Pass;
 test_decimal_numbers, unit - Pass;
 test_large_numbers, unit - Pass;
 test_clear, unit - Pass;
-test_full_calculation_sequence, integration - Pass;
-test_clear_resets_to_zero, integration - Pass.
+
 test_full_calculation_sequence, in;tegration - Pass
 test_clear_resets_to_zero, integration - Pass
