@@ -21,14 +21,16 @@ If new features are added to Quick-Calc in the future, the existing test suite c
 All my tests are functional, they verify that the calculator produces correct results. I intentionally did not write non-functional tests such as performance or load tests as they are unnecessary for a basic calculator.
 
 ## Test Results Summary
-test_add, unit - Pass
-test_subtract, unit - Pass
-test_multiply, unit - Pass
-test_divide, unit - Pass
-test_divide_by_zero, unit, pass
-test_negative_numbers, unit - Pass
-test_decimal_numbers, unit - Pass
-test_large_numbers, unit - Pass
-test_clear, unit - Pass
-test_full_calculation_sequence, integration - Pass
+test_add, unit - Pass;
+test_subtract, unit - Pass;
+test_multiply, unit - Pass;
+test_divide, unit - Pass;
+test_divide_by_zero, unit, pass;
+test_negative_numbers, unit - Pass;
+test_decimal_numbers, unit - Pass;
+test_large_numbers, unit - Pass;
+test_clear, unit - Pass;
+test_full_calculation_sequence, integration - Pass;
+test_clear_resets_to_zero, integration - Pass.
+test_full_calculation_sequence, in;tegration - Pass
 test_clear_resets_to_zero, integration - Pass
